@@ -89,7 +89,7 @@ body {
   height: 500px;
 }
 .search-overlay {
-  background-color: #31081f70;
+  background-color: #FF1493;
   height: inherit;
 }
 .home-search-container {
@@ -180,7 +180,7 @@ border: none;
 .book-overlay {
   height: inherit;
   /* background: rgba(0, 0, 0, 0.4); */
-  background-color: #31081F;
+  background-color: #FF1493;
 }
 .book-section {
   margin-top: 8%;
@@ -219,7 +219,7 @@ border: none;
   margin-top: -70px;
 }
 .update-overlay {
-  background-color: #31081f70;
+  background-color: #FF1493;
   height: inherit;
 }
 .route-update {
@@ -418,7 +418,7 @@ bus details page
 *****************************************************************************/
 .bus-details {
   height: 170px;
-  background: #31081f;
+  background: #FF1493;
   margin-top: -70px;
 }
 .bus-details-container {
@@ -466,6 +466,7 @@ end of bus details page
     .search-button {
       width: 100%;
       border-radius: 0 0 3px 3px;
+      color: #FF1493;
     }
     .book {
       height: 630px;

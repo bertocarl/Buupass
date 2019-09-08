@@ -30,7 +30,6 @@ INSTALLED_APPS = [
     'bootstrap3',
     'star_ratings',
     'widget_tweaks',
-    
 ]
 
 
